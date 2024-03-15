@@ -23,7 +23,7 @@
         "node": ">=10"
       },
     "scripts": {
-        "build": "npm build"
+        "build": "npm run build"
     }
 
 }
