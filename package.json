@@ -21,9 +21,6 @@
       },
       "engines": {
         "node": ">=10"
-      },
-    "scripts": {
-    "build": "npm run build"
-     }
+      }
 
 }
